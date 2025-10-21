@@ -1,7 +1,7 @@
 {
-  "name": "my-express-app",
+  "name": "ingenious-charisma",
   "version": "1.0.0",
-  "description": "Express server for Glitch via GitHub",
+  "description": "Express server for Railway",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
